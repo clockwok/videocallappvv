@@ -1,0 +1,42 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "language": "en_US",
+  "data": [
+    {
+      "isForceUpdate": false,
+      "isNormalUpdate": false,
+      "bannerAdsShow": true,
+      "interstitialAdsShow": true,
+      "nativeAdsShow": true,
+      "openAdsShow": true,
+      "rewardAdsShow": true,
+      "adType": "1",
+      "adShow": "on",
+      "interstitialAdsCount": 2,
+      "loadingTime": 3,
+      "bannerAdsId": "ca-app-pub-3940256099942544/6300978111",
+      "interstitialAdsId": "ca-app-pub-3940256099942544/1033173712",
+      "nativeAdsId": "ca-app-pub-3940256099942544/2247696110",
+      "rewardAdsId": "ca-app-pub-3940256099942544/5224354917",
+      "openAdID": "ca-app-pub-3940256099942544/9257395921",
+      "adShowCountOnMsg": "3",
+      "appName": "videocallchat",
+      "appVersion": "1.2.0",
+      "rewardAdCount": "1",
+      "rewardAdDuration": "6",
+      "updateAppUrl": "https://play.google.com/store/apps/details?id=",
+      "fbBannerAdsId": "IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
+      "fbInterstitialAdsId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fbNativeAdsId": "IMG_16_9_APP_INSTALL#2312433698835503_2964953543583512",
+      "createdAt": "2023-04-21T11:02:38.088Z",
+      "updatedAt": "2024-05-16T05:33:10.718Z",
+      "subscriptionNote1": 1,
+      "historyPage": true,
+      "reviewScreenCount": 10,
+      "reviewEmail": "mailto:vaidehivaghasiya3@gmail.com",
+      "coinRewardInterstitialShow": false
+    }
+  ],
+  "error": null
+}
