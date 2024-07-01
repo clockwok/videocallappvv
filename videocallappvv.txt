@@ -34,7 +34,7 @@
       "subscriptionNote1": 1,
       "historyPage": true,
       "reviewScreenCount": 10,
-      "reviewEmail": "mailto:vaidehivaghasiya3@gmail.com",
+      "reviewEmail": "mailto:julibutani2@gmail.com",
       "coinRewardInterstitialShow": false
     }
   ],
