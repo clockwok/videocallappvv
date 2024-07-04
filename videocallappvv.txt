@@ -75,26 +75,13 @@
         "dummy_data_chat_list": [
           [
             "where are you?",
-            "would you like me to have a drink?", 
-            "where are you?",
-            "would you like me to have a drink?", 
-            "where are you?",
             "would you like me to have a drink?"
-          ],
-          [
-            "You're always on my mind."
           ],
           [
             "You're always on my mind."
           ]
         ],
-        "hot_icon_text_list": [
-          "🔥",
-          "❤",  
-          "🔥",
-          "❤",   
-          "🔥",
-          "❤",   
+        "hot_icon_text_list": [  
           "🔥",
           "❤"
         ],
