@@ -105,11 +105,11 @@
       ],
       "max_free_video_call_count": 1,
       "native_ads_count_in_list": 96,
-      "random_chat_is_on": false,
+      "random_chat_is_on": true,
       "payment_gateway": {
         "in_app_purchase": true,
         "razor_pay": false,
-        "stripe": true
+        "stripe": false
       },
       "price": {
         "bron": 80,
